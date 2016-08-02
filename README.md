@@ -27,6 +27,7 @@ Si se trata de un bug en MithrandirCraft (Error encontrado en el servidor o en s
 
 Si se trata de reportar un jugador:
 
+- Evidencia visual (video obligatorio)
 - Nombre de tu personaje en MithrandirCraft.
 - Nombre del jugador o jugadores que reportas.
 - Fecha o fechas de encuentro con la actividad sospechosa o contraria a la normativa del servidor, del jugador reportado.
