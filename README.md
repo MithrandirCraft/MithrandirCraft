@@ -24,15 +24,6 @@ Si se trata de un bug en MithrandirCraft (Error encontrado en el servidor o en s
 - Que debería estar ocurriendo en vez del efecto negativo causado por el bug?
 - Comentarios adicionales y detalles.
 
-Si se trata de reportar un jugador:
-
-- Evidencia visual (video obligatorio)
-- Nombre de tu personaje en MithrandirCraft.
-- Nombre del jugador o jugadores que reportas.
-- Fecha o fechas de encuentro con la actividad sospechosa o contraria a la normativa del servidor, del jugador reportado.
-- Sección de /rules que consideras incumplida por el jugador reportado en question.
-- Comentarios adicionales y detalles.
-
 Si se trata de dar una sugerencia:
 
 - Nombre de tu jugador en MithrandirCraft.
