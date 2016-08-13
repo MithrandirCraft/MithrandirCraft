@@ -3,7 +3,13 @@ MithrandirCraft
 
 Sistema de tickets - reportes
 
-Que puedes reportar aquí:
+Para abrir un ticket:
+
+ - Registrate en github.com y logueate.
+ - Haz click en la sección "Issues" o en este enlace: https://github.com/MithrandirCraft/MithrandirCraft/issues
+ - Sigue las siguientes pautas.
+
+Que puedes reportar en issues:
 
  - Errores en MithrandirCraft
  - Errores en otras interfazes del servidor.
