@@ -2,6 +2,12 @@ MithrandirCraft
 ===============
 
 Sistema de tickets - reportes
+Es obligatorio seguir las siguietes pautas a la hora de abrir un ticket aquí:
+
+NORMAS DE USO DEL SISTEMA DE TICKETS:
+
+- No se aceptarán temas que utilicen lenguaje ofensivo.
+- Expresate claramente y sin errores ortográficos exagerados.
 
 Para abrir un ticket:
 
@@ -13,14 +19,12 @@ Que puedes reportar en issues:
 
  - Errores en MithrandirCraft
  - Errores en otras interfazes del servidor.
- - Sugerencias globales
- 
-Para asuntos no alistados aquí, dirigete al correo: mithrandircraft@hotmail.es
+ - Sugerencias globales, tambien puedes hacerlo aquí: http://mithrandircraft.phpbb-foro.es/f7-sugerencias
 
-NORMAS DE USO DEL SISTEMA DE TICKETS:
+Que no reportar aquí, y donde hacerlo:
 
-- No se aceptarán temas que utilicen lenguaje ofensivo.
-- Expresate claramente y sin errores ortográficos exagerados.
+ - Reportar jugadores / Infracciones de normativa: http://mithrandircraft.phpbb-foro.es/f6-reportar-infraccion
+ - Apelaciones a castigos: http://mithrandircraft.phpbb-foro.es/f11-apelaciones
 
 Si se trata de un bug en MithrandirCraft (Error encontrado en el servidor o en sus interfazes):
 
@@ -38,3 +42,4 @@ Si se trata de dar una sugerencia:
 
 Si tu ticket no respeta esta estructura, podrá no ser procesado, o eliminado en cualquier momento.
 
+Para asuntos no alistados aquí, puedes dirigirte al correo: mithrandircraft@hotmail.es
