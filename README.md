@@ -38,7 +38,7 @@ Si se trata de dar una sugerencia:
 
 - Nombre de tu jugador en MithrandirCraft.
 - Ambito del servidor en el que podría aplicarse tu idea.
-- Explicación extensa de en que consiste tu idea, y como puede aplicarse.
+- Explicación extensa de en que consiste tu idea, como crees que puede aplicarse, y como beneficiaría al servidor.
 
 Si tu ticket no respeta esta estructura, podrá no ser procesado, o eliminado en cualquier momento.
 
